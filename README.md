@@ -1,1 +1,2 @@
 # StudyNotes
+这是一个关于小迪安全视频学习笔记和Vulhub、Dvwa等靶场漏洞复现笔记以及CTF刷题WP
